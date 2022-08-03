@@ -4,6 +4,8 @@ Essa API RESTful é a parte Back End do projeto full stack desenvolvido no desaf
 
 A API consiste de arquivos que possuem toda a estrutura e inclui também o schema do Banco de Dados.
 
+O **JavaScript** foi a linguagem de programação utilizada em todo a API.
+
 ##  A API RESTful
 A API da aplicação DinDin permite:
 
